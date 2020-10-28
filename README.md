@@ -15,4 +15,4 @@ Backend: NodeJS & Express <br><br>
 Database: MySQL.
 <br>
 
-<kbd><img src="images/view.PNG" height="350"></kbd>
+<kbd><img src="images/view1.PNG" height="350"></kbd>
