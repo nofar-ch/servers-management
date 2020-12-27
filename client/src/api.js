@@ -6,7 +6,6 @@ export default {
             method: "get"
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -15,7 +14,6 @@ export default {
             method: "get"
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
     
@@ -28,7 +26,6 @@ export default {
         }
     })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err))
     },
 
@@ -50,7 +47,6 @@ export default {
           })
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -64,7 +60,6 @@ export default {
         },
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -80,7 +75,6 @@ export default {
           })
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -96,7 +90,6 @@ export default {
           })
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -112,7 +105,6 @@ export default {
           })
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -125,7 +117,6 @@ export default {
         }
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     },
 
@@ -138,7 +129,6 @@ export default {
         }
         })
         .then(res => res.json())
-        .then(data => data)
         .catch(err => console.log(err));
     }
 }
